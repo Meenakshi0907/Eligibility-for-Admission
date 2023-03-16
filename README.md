@@ -61,7 +61,8 @@ namespace Hello
 }
 ```
 ## Output:
-![ss1](./ss1.png)
+![ss1](https://user-images.githubusercontent.com/94165108/225648388-908b0390-6d49-49ea-8307-520e78554384.png)
+
 
 ## Result:
 A C# program is written to find the eligibility for admission to an engineering course and has been successfully executed.
