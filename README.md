@@ -28,7 +28,7 @@ Step 7:
 End of program.
 
 ## Program:
-```
+```c#
 using System;
 namespace Hello
 {
